@@ -3,7 +3,7 @@ export default [
     {
         channelId: "1521300163774120017",
         serverId: "1486273913489985657",
-        token: process.env.token1,
+        token: process.env.TOKEN,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
